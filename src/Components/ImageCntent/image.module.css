@@ -1,0 +1,15 @@
+.mainDiv{
+   display: grid;
+   padding-top: 10px;
+}
+
+article{
+    float: left;
+}
+
+img{
+    width: 50px;
+    height: auto
+    
+  }
+
